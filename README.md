@@ -2,6 +2,6 @@
 
 
 - 🌱 I’m currently doing my B.Tech in CCE at Amrita School of Engineering
-- 🌱 C | Python | HTML | CSS
-- 🌱 I'm interested in networking, cybersecurity, cloud and data science!
+- 🌱 C | Python | Data Science | Machine Learning and Artificial Intelligence
+- 🌱 A machine learning and data science enthusiast!
 
