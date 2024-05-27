@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswathy Jagadeesh</h1>
-<h3 align="center">A Machine Learning and Data Science enthusiast</h3>
+<h3 align="center">Web Development | Machine Learning | Cloud Computing</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/purple-black](https://github.com/purple-black)
 
